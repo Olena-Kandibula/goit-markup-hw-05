@@ -683,7 +683,7 @@ header > .container {
     transform: scale(0.1);
   }
   30% {
-    transform: scale(1.5);
+    transform: scale(1.25);
   }
 
   60% {
